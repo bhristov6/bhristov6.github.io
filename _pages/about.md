@@ -19,9 +19,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-[Google Scholar]([https://scholar.google.com/citations?user=mnTncLgAAAAJ&hl=en/](https://scholar.google.com/citations?user=nFMRUc4AAAAJ&hl=en)), 
+[Google Scholar](https://scholar.google.com/citations?user=nFMRUc4AAAAJ&hl=en)
+[CV](assets/img/prof_pic.jpg) 
 
-Currenttly, I am a UW eScience postdoctoral fellow having the pleasure of working with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/). Before that, I received my Ph.D. in Computer Science from Princeton University where I was advised by [Dr. Mona Singh](https://www.cs.princeton.edu/~mona/).
+
+
+Currently, I am a UW eScience postdoctoral fellow having the pleasure of working with [Dr. William Noble](https://noble.gs.washington.edu/~wnoble/). Before that, I received my Ph.D. in Computer Science from Princeton University where I was advised by [Dr. Mona Singh](https://www.cs.princeton.edu/~mona/).
 
 My research interests lie in the confluence of artificial intelligence, statistics and biology and are focused on developing novel methods to tackle the significant challenges of “big data” genomics. I have been employing network-based algorithms and machine learning models to try to decipher the molecular underpinnings of complex diseases such as cancer. Recently, I have used diffusion kernels to try to understand the role of inter-chromosomal interactions during heart development. Broadly speaking my research interests include:
 * detecting disease-causing variant, especially those mutated at low frequency
