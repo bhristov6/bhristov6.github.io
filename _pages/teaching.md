@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: presentations
-description: Some of the talks I have given
+title: Presentations
+description: Here are some of the talks I have given
 nav: true
 nav_order: 5
 ---
