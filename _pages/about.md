@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=nFMRUc4AAAAJ&hl=en)
-[CV](assets/img/prof_pic.jpg) 
+[CV](assets/img/CV.pdf) 
 
 
 
